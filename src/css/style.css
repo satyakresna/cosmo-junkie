@@ -99,7 +99,7 @@ h4 {
     grid-column: 1/4;
     grid-row: 1;
     padding-bottom: 10px;
-    border-bottom: 3px;
+    border-bottom: 3px solid var(--primary);
     display: inline-block;
 }
 
